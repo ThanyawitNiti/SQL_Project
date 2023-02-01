@@ -1,1 +1,2 @@
-# Web_mini_project
+# Samsung-Galaxy-M13 - 
+Topic and Detail
