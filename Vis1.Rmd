@@ -1,0 +1,24 @@
+---
+title: "Diamonds price more than 200$"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r}
+library(dplyr)
+library(ggthemes)
+library(tidyverse)
+library(patchwork)
+library(tidyverse)
+library(glue)
+library(ggplot2)
+
+price200 <- diamonds %>%
+    select(price,color,carat,cut)  %>%
+    filter(price >= "200") %>%
+    arrange(desc(color)) %>%
+  head(10)
+```
+
