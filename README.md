@@ -17,3 +17,5 @@ FROM covid
 WHERE continent is not null
 ORDER by 1;
 ````
+
+[Covid_](https://github.com/ThanyawitNiti/SQL_Project/blob/main/Covid_)
