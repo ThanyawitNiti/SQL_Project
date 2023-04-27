@@ -5,4 +5,4 @@ Fuction : Aggregations, Joins, CTEs,  CASE WHEN statements, subqueries, DATETIME
 
 
 
-[Covid_](https://github.com/ThanyawitNiti/SQL_Project/blob/main/Covid_)
+[Covid_](https://github.com/ThanyawitNiti/SQL_Project/blob/main/Covid.sqbpro)
