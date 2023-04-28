@@ -1,5 +1,6 @@
 # SQL_Project
-## Covid
+
+## Covid <img src="https://user-images.githubusercontent.com/124046836/235069516-4076c166-be47-4a6f-bec5-135c3fdd367e.png" width=20 height=20 >
 
 1.) Global number of Covid
 
