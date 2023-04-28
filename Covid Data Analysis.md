@@ -58,7 +58,7 @@ ORDER by TotaldeathsCount DESC;
 ```
 ![image](https://user-images.githubusercontent.com/124046836/235063322-c9ff1d23-979b-4e7d-a40c-cab80570f527.png)
 
-## Totoal deaths down by continent
+## Totoal deaths by continent
 
 ```
 
