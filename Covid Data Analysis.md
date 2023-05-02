@@ -72,3 +72,8 @@ ORDER by TotaldeathsCount DESC;
 ```
 
 ![image](https://user-images.githubusercontent.com/124046836/235063583-3180245e-4019-4195-ab2d-2dcce8a217e1.png)
+
+
+![link image](https://public.tableau.com/static/images/Co/CovidDashboard_16830078731020/Dashboard1/4_3.png)
+
+[link](https://public.tableau.com/views/CovidDashboard_16830078731020/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
